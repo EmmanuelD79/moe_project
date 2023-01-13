@@ -5,3 +5,4 @@ env/
 *.py[cod]
 *$py.class
 **/.DS_Store
+db.sqlite3
